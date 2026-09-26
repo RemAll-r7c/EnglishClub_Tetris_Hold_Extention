@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "英語部テトリス専用ホールド拡張機能",
+  "version": "1.0",
+  "description": "テトリスゲームにホールド機能(Uキー)を追加します。連続してホールドはできません。",
+  "content_scripts": [
+    {
+      "matches": ["https://dennyura.cloudfree.jp/games/EnglishClub_Tetris/Tetris.html*"],
+      "js": ["content.js"],
+      "world": "MAIN",
+      "run_at": "document_end"
+    }
+  ]
+}
