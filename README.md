@@ -8,3 +8,11 @@ Uキーを押すと効果音と共に現在のミノがホールドされます�
 Rキーでリセットしたり、スペース+Hでホーム画面に戻った際は、ホールドもリセットされます。
 この拡張機能があっても、ランキングや対戦は機能します。
 でんゆら本人にも許可を取っています。
+
+## 確認済み動作環境
+Windows11 - Microsoft Edge
+ただし、Chromiumを使用しているブラウザならほとんど利用可能だと考えます。
+
+## ダウンロード
+https://github.com/RemAll-r7c/EnglishClub_Tetris_Hold_Extention/archive/refs/heads/main.zip
+ダウンロード後、パッケージされていない拡張機能として導入すれば使えます。
