@@ -1,0 +1,2 @@
+# EnglishClub_Tetris_Hold_Extention
+でんゆらルームの英語部テトリスにホールドを追加するブラウザ拡張機能です。
